@@ -39,9 +39,9 @@
 
 11. Lidar Point Cloud Guided Monocular 3D Object Detection. [ECCV 2022](https://arxiv.org/abs/2104.09035) [[Official Code]](https://github.com/SPengLiang/LPCG)
 
-
 12. LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector. [ICCV 2021](https://arxiv.org/abs/2108.08258) [[Official Code]](https://github.com/xy-guo/LIGA-Stereo)
 
+13. MonoDistill: Learning Spatial Features for Monocular 3D Object Detection. [ICLR2022](https://openreview.net/pdf?id=C54V-xTWfi)
 
 
 ### LiDAR-based Distillation
